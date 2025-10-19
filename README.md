@@ -22,23 +22,6 @@ With Applications in Python*.
   - Cross-validation
   - Bootstrap
 
-[Add more chapters as you progress]
-
-## Setup
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Each chapter folder contains:
-- `notebooks/` — Jupyter notebooks with explanations
-- `scripts/` — Standalone Python scripts
-- `data/` — Datasets used
-
-Run notebooks or scripts to reproduce results.
-
 ## Notes
 
 Learning exercises while working through ISLR. Code focuses on 
